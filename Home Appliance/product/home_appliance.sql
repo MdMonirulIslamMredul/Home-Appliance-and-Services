@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 18, 2021 at 06:38 PM
+-- Generation Time: Aug 18, 2021 at 06:41 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.6
 
@@ -51,14 +51,7 @@ INSERT INTO `products` (`PID`, `Name`, `Model`, `Category`, `Brand`, `Color`, `B
 (3, 'Whirlpool Supreme Cool In', 'SAI12K30SC0', 'AC', 'Whirlpool', 'Black', 54000, 58000, 0, 'Yes', 'CONSUMES LESS ENERGY\r\nZERO IMPACT ON OZONE LAYER                         \r\nHIGHER COOLING CAPACITY'),
 (4, 'Panasonic Multi Cooker SR', 'W22 GS', 'Kitchen', 'Panasonic ', 'Red', 3400, 3700, 10, 'Yes', 'Voltage	220 V\r\n•Frequency	50 Hz\r\n•Wattage	730 W\r\n•Capacity	2.2 L'),
 (25, 'Philips Beard Trimmer', 'BT3105', 'others', 'others', 'Blue', 4000, 4500, 10, 'Yes', '0.5mm precision settings\r\n45 min cordless use/2h charge\r\nStainless steel blades'),
-(26, 'Bosch Serie 4 Free-stan', 'SMS50D08GC', 'WashingMachine', 'others', 'Silver', 72900, 75900, 10, 'Yes', '5 programmes:\r\n\r\nIntensive 70 °C, Auto 45-65 °C, Eco 50 °C, Quick wash 45 °C, Pre-Rinse\r\n\r\n \r\n\r\n1 special options: HygienePlus\r\n\r\n4 cleaning temperatures\r\n\r\nActiveWater hydraulic system'),
-(27, 'dsdgg', '', '', '', '', 0, 0, 0, 'Yes', 'fsdsdfd'),
-(28, '', '', '', '', '', 0, 0, 0, 'No', ''),
-(29, 'sdggs', 'sgd', '', '', '', 0, 0, 0, 'No', ''),
-(30, 'please', 'sgd', '', '', '', 0, 0, 0, 'No', ''),
-(31, 'hmmm', 'fg1', '', '', '', 0, 0, 0, 'No', 'gdg'),
-(32, 'sfd', 'sfd', '', '', '', 0, 0, 0, 'No', 'sfddsfsdfs'),
-(33, 'm', '', 'Refrigerator', '', '', 0, 0, 0, 'Yes', '');
+(26, 'Bosch Serie 4 Free-stan', 'SMS50D08GC', 'WashingMachine', 'others', 'Silver', 72900, 75900, 10, 'Yes', '5 programmes:\r\n\r\nIntensive 70 °C, Auto 45-65 °C, Eco 50 °C, Quick wash 45 °C, Pre-Rinse\r\n\r\n \r\n\r\n1 special options: HygienePlus\r\n\r\n4 cleaning temperatures\r\n\r\nActiveWater hydraulic system');
 
 -- --------------------------------------------------------
 
